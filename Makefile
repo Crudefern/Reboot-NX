@@ -42,9 +42,9 @@ BUILD		:=	build
 SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
-APP_TITLE   :=  "Reboot"
-APP_AUTHOR  :=  "Crudefer/Hydrate"
-#ROMFS	:=	romfs
+APP_TITLE   	:=  	"Reboot"
+APP_AUTHOR  	:=  	"Crudefer/Hydrate"
+#ROMFS		:=	romfs
 
 #---------------------------------------------------------------------------------
 # options for code generation
