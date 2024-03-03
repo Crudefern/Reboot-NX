@@ -43,7 +43,7 @@ SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 APP_TITLE   :=  "Reboot"
-APP_AUTHOR  :=  "Crudefern"
+APP_AUTHOR  :=  "Crudefer/Hydrate"
 #ROMFS	:=	romfs
 
 #---------------------------------------------------------------------------------
